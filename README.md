@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Danyal Butt</h1>
+<h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">Senior Fullstack Developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyal14&label=Profile%20views&color=0e75b6&style=flat" alt="danyal14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyal14" alt="danyal14" /></a> </p>
+
 
 - 🔭 I’m currently working in [JP/Politikens Hus (BOLD)](https://bold.dk)
-
 - 🌱 I’m currently learning **ReactNative, Github Copilot CLI, AI for Programmers**
 
 - 👯 I’m currently developing [PWDSAFE - dPasswordmanager](https://apps.apple.com/in/app/pwdsafe-dpasswordmanager/id6475261695)
@@ -21,7 +20,6 @@
 
 - ⚡ Fun fact **Out of the blue, I just bought a Guaitar — don’t ask me to spell it, and definitely don’t ask me to play it.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
